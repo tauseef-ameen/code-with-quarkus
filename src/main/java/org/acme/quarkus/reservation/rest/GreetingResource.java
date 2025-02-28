@@ -1,4 +1,4 @@
-package org.acme.quarkus;
+package org.acme.quarkus.reservation.rest;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
